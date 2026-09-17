@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("IMG_5990.png", use_container_width=True)
 # Tiêu đề
 st.title("🍜 APP TÍNH TIỀN QUÁN ĂN")
 
